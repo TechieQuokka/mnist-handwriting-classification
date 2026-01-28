@@ -291,7 +291,7 @@ This project is for educational purposes. The MNIST dataset is publicly availabl
 
 ---
 
-**Author**: Seung
+**Author**: TechieQuokka
 **Last Updated**: December 2025
 **Framework**: PyTorch
 **Task**: Multi-class Image Classification
